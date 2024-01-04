@@ -1,0 +1,15 @@
+/* counter up start */
+.counter_up{
+    padding: 30px;
+    background-color: #0d0056;
+}
+.counter_text{
+    color: #fff;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 40PX;
+    font-weight: 700;
+    border-bottom: 2px solid #fff;
+}
+/* counter up end */
